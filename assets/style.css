@@ -1,0 +1,57 @@
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: white;
+ 
+}
+
+header {
+  height: 300px;
+  border: 3px solid black;
+  width: 80%; 
+  font-size: 20px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.underscore {
+    height: 150px;
+    border: 3px solid black;
+    width: 80%; 
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.rightGuess {
+    height: 150px;
+    border: 3px solid black;
+    width: 50%; 
+    font-size: 40px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    float: left;
+}
+
+.wrongGuess {
+    height: 150px;
+    border: 3px solid black;
+    width: 50%; 
+    font-size: 40px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    float: left;
+}
+
+footer {
+    clear: both;
+    margin-bottom: 20px;
+}
